@@ -1,0 +1,3 @@
+include ':AppManagerLibrary'
+include ':app'
+rootProject.name = "CustomLauncher"
